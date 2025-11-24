@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 quizas, donde puedo stockearme de ella?
+=======
+a practicar
+>>>>>>> a50831e073992a3d80186f8477f5714373574dfc
