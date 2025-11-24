@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sale que sale me siento mister robot
+=======
+espero que esto se esté guardando
+>>>>>>> 255773599e399997a4ad5f3786be42fbb484d4a1
