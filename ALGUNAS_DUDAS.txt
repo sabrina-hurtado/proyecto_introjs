@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 haciendo lio
-=======
 otro error uno random
->>>>>>> 8feedc0d4a1a22524a3d201d45b910fd979906d6
