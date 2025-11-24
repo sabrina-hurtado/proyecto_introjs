@@ -1,1 +1,1 @@
-registro de conflictos
+ ocasionamos tres errores para resolver y practicar modificando los mismo archivos, resolvimos el conflicto manualmente desde vsc decidiendo si queriamos fusionarlos o descartar los cambios de la otra, decidimos fusionarlos y luego utilizar los comandos respectivos para marcarlos cambios, registrar y guardar los cambios ocn un mensaje y cargar los mismos al repositorio remoto
